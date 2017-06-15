@@ -6,7 +6,7 @@ package proxy;
 public class Ilyabirman extends Designer{
     @Override
     public void design() {
-        System.out.println("Redesignall");
+        System.out.println("Redesign all");
         super.design();
     }
 
